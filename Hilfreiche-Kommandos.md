@@ -5,7 +5,7 @@
 Mit dem folgenden Befehl lässt sich der Server oder auch Client via PowerShell umbenennen und automatisch neustarten
 
 ```powershell
-Rename-Computer -NewNAme Server1 -Restart 
+Rename-Computer -NewName Server1 -Restart 
 ```
 ---
 
